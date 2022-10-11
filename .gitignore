@@ -4,3 +4,5 @@ Data/Modeling Stage/R_Gonz_cleaned_logs.csv
 Data/Nova_IMS_logs_Moodle.xlsx
 Data/Modeling Stage/NovaIMS_cleaned_logs.csv
 Images/RNNs.png
+*.csv
+*.xlsx
